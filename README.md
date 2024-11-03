@@ -1,16 +1,24 @@
-## Hi there 👋
+### About Me:
+Hi!! I'm a computer science student. I love to listen to music, configure my setup to my needs, and learn new programming languages!
 
-<!--
-**2styx2/2styx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently doing: Learing how to make an os going along with my os class, also learning games.
 
-Here are some ideas to get you started:
+### Setup
+- Editor: Neovim
+- Terminal: Wezterm
+- OS: Windows 11 + Debian (WSL)
+- Devices: Asus ROG G14 Zephyrus + M1 Macbook Pro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- C
+- C++
+- JS/TS
+- Python
+- Java
+- SQL
+- Lua
+
+### I like to make...
+- Desktop Apps
+- Games
+- CLIs and other developer utilities
