@@ -7,7 +7,7 @@ Currently doing: Learing how to make an os going along with my os class, also le
 - Editor: Neovim
 - Terminal: Wezterm
 - OS: Windows 11 + Debian (WSL)
-- Devices: Asus ROG G14 Zephyrus + M1 Macbook Pro
+- Devices: Self Built PC + Precision 3570
 
 ### Languages
 - C
