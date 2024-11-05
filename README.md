@@ -19,6 +19,6 @@ Currently doing: Learing how to make an os going along with my os class, also le
 - Lua
 
 ### I like to make...
-- Desktop Apps
+- Apps
 - Games
 - CLIs and other developer utilities
