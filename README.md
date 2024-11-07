@@ -1,7 +1,10 @@
 ### About Me:
 Hi!! I'm a computer science student. I love to listen to music, configure my setup to my needs, and learn new programming languages!
 
-Currently doing: Learing how to make an os going along with my os class, also learning games.
+### Currently doing: 
+- Learing how to make an os going along with my os class
+- Making my website portfolio with a blog -> [styxx.dev](https://www.styxx.dev)
+
 
 ### Setup
 - Editor: Neovim
