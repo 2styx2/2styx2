@@ -20,6 +20,7 @@ Hi!! I'm a computer science student. I love to listen to music, configure my set
 - Java
 - SQL
 - Lua
+- Go
 
 ### I like to make...
 - Apps
