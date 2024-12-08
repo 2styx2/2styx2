@@ -9,7 +9,7 @@ Hi!! I'm a computer science student. I love to listen to music, configure my set
 ### Setup
 - Editor: Neovim
 - Terminal: Wezterm
-- OS: Windows 11 + Debian (WSL)
+- OS: Ubuntu
 - Devices: Self Built PC + Precision 3570
 
 ### Languages
