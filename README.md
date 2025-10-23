@@ -2,14 +2,13 @@
 I'm a computer science student. I love to listen to music, configure my setup to my needs, and learn new programming languages.
 
 ### Currently doing: 
-- Learning how to make an os going along with my os class
+- Practicing leetcode and working on my 6502 project
 - Making my website portfolio with a blog -> [styxx.dev](https://www.styxx.dev)
 
 ### Setup
 - Editor: Neovim
-- Terminal: Wezterm
 - OS: Ubuntu
-- Devices: Self Built PC + Precision 3570
+- Devices: Self Built PC + Precision 3570 
 
 ### Languages
 - C
