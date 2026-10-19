@@ -1,14 +1,14 @@
 ### About Me:
-I'm a computer science student. I love to listen to music, configure my setup to my needs, and learn new programming languages.
+I'm a cybersecurity engineer at [TopHat|Security](https://www.tophatsecurity.com). I love to listen to music, configure my setup to my needs, and learn new programming languages.
 
 ### Currently doing: 
-- Practicing leetcode and working on my 6502 project
+- Working on [O-RANGE](https://www.tophatsecurity.com/orange)
 - Making my website portfolio with a blog -> [styxx.dev](https://www.styxx.dev)
 
 ### Setup
 - Editor: Neovim
-- OS: Ubuntu
-- Devices: Self Built PC + Precision 3570 
+- OS: Fedora(WSL)
+- Devices: Laptop
 
 ### Languages
 - C
